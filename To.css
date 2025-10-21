@@ -13,6 +13,7 @@ body {
     color: #080e29;
     background: #eef3f7;
     padding-top: 80px;
+    overflow-x: hidden;
 }
 
 .header {
